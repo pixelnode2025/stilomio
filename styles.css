@@ -588,6 +588,9 @@ h4 {
         grid-template-columns: 1fr;
         /* Una columna en móvil */
     }
+    .copy {
+        margin-left: 0;
+    }
 }
 
 .loading-animation {
@@ -598,4 +601,5 @@ h4 {
     color: var(--color-funcional-advertencia);
     letter-spacing: -0.2rem;
     /* Junta los puntos */
+
 }
