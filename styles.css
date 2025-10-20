@@ -487,6 +487,7 @@ h4 {
     .nav-right-actions .social-icons {
         display: flex;
         flex-direction: row; 
+        margin-bottom: 4rem;
     }
 
     .nav-link.contact-icon-group {
@@ -603,3 +604,4 @@ h4 {
     /* Junta los puntos */
 
 }
+
